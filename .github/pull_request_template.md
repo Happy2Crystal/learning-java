@@ -4,7 +4,6 @@
  - [ ] List the different exercises you completed
  - [ ] `Arithmetics`
  - [ ] `Abstraction`
- - [ ] `git push test`
 
 # Notes
  - [ ] Any takeaways from the exercises:
